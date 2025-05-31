@@ -6,3 +6,4 @@ rustc debug1.rs
 rustc debug2.rs
 rustc display1.rs
 rustc display2.rs
+rustc list.rs
