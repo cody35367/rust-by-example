@@ -8,3 +8,6 @@ rustup update
 rustup docs
 # Rust By Example
 ```
+
+## If no build script
+- Just `rustc` the rs file and run the outputted bin
